@@ -1,0 +1,1 @@
+create table paient(id int,fisrtname varchar(225),secondname varchar(225),age int);
